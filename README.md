@@ -21,7 +21,7 @@ The project followed a three-step approach:
 
 ## Results
 
-After applying Exploratory Data Analysis (EDA) and necessary feature engineering, my dedication yielded a score of **0.44645790695**, which translates to a **44% improvement** over the baseline model. This result showcases AutoGluon's prowess in accelerating machine learning workflows.
+After applying Exploratory Data Analysis (EDA) and necessary feature engineering, my dedication yielded a score of **0.4856**, which translates to a **49% improvement** over the baseline model. This result showcases AutoGluon's prowess in accelerating machine learning workflows.
 
 ## Conclusion
 
